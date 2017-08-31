@@ -1,0 +1,2142 @@
+fileFormatVersion: 2
+guid: 96347892c81aa954bbd708c150b5ba0b
+timeCreated: 1485735507
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: theVeldt_grassAnimation_0
+    21300002: theVeldt_grassAnimation_1
+    21300004: theVeldt_grassAnimation_2
+    21300006: theVeldt_grassAnimation_3
+    21300008: theVeldt_grassAnimation_4
+    21300010: theVeldt_grassAnimation_5
+    21300012: theVeldt_grassAnimation_6
+    21300014: theVeldt_grassAnimation_7
+    21300016: theVeldt_grassAnimation_8
+    21300018: theVeldt_grassAnimation_9
+    21300020: theVeldt_grassAnimation_10
+    21300022: theVeldt_grassAnimation_11
+    21300024: theVeldt_grassAnimation_12
+    21300026: theVeldt_grassAnimation_13
+    21300028: theVeldt_grassAnimation_14
+    21300030: theVeldt_grassAnimation_15
+    21300032: theVeldt_grassAnimation_16
+    21300034: theVeldt_grassAnimation_17
+    21300036: theVeldt_grassAnimation_18
+    21300038: theVeldt_grassAnimation_19
+    21300040: theVeldt_grassAnimation_20
+    21300042: theVeldt_grassAnimation_21
+    21300044: theVeldt_grassAnimation_22
+    21300046: theVeldt_grassAnimation_23
+    21300048: theVeldt_grassAnimation_24
+    21300050: theVeldt_grassAnimation_25
+    21300052: theVeldt_grassAnimation_26
+    21300054: theVeldt_grassAnimation_27
+    21300056: theVeldt_grassAnimation_28
+    21300058: theVeldt_grassAnimation_29
+    21300060: theVeldt_grassAnimation_30
+    21300062: theVeldt_grassAnimation_31
+    21300064: theVeldt_grassAnimation_32
+    21300066: theVeldt_grassAnimation_33
+    21300068: theVeldt_grassAnimation_34
+    21300070: theVeldt_grassAnimation_35
+    21300072: theVeldt_grassAnimation_36
+    21300074: theVeldt_grassAnimation_37
+    21300076: theVeldt_grassAnimation_38
+    21300078: theVeldt_grassAnimation_39
+    21300080: theVeldt_grassAnimation_40
+    21300082: theVeldt_grassAnimation_41
+    21300084: theVeldt_grassAnimation_42
+    21300086: theVeldt_grassAnimation_43
+    21300088: theVeldt_grassAnimation_44
+    21300090: theVeldt_grassAnimation_45
+    21300092: theVeldt_grassAnimation_46
+    21300094: theVeldt_grassAnimation_47
+    21300096: theVeldt_grassAnimation_48
+    21300098: theVeldt_grassAnimation_49
+    21300100: theVeldt_grassAnimation_50
+    21300102: theVeldt_grassAnimation_51
+    21300104: theVeldt_grassAnimation_52
+    21300106: theVeldt_grassAnimation_53
+    21300108: theVeldt_grassAnimation_54
+    21300110: theVeldt_grassAnimation_55
+    21300112: theVeldt_grassAnimation_56
+    21300114: theVeldt_grassAnimation_57
+    21300116: theVeldt_grassAnimation_58
+    21300118: theVeldt_grassAnimation_59
+    21300120: theVeldt_grassAnimation_60
+    21300122: theVeldt_grassAnimation_61
+    21300124: theVeldt_grassAnimation_62
+    21300126: theVeldt_grassAnimation_63
+    21300128: theVeldt_grassAnimation_64
+    21300130: theVeldt_grassAnimation_65
+    21300132: theVeldt_grassAnimation_66
+    21300134: theVeldt_grassAnimation_67
+    21300136: theVeldt_grassAnimation_68
+    21300138: theVeldt_grassAnimation_69
+    21300140: theVeldt_grassAnimation_70
+    21300142: theVeldt_grassAnimation_71
+    21300144: theVeldt_grassAnimation_72
+    21300146: theVeldt_grassAnimation_73
+    21300148: theVeldt_grassAnimation_74
+    21300150: theVeldt_grassAnimation_75
+    21300152: theVeldt_grassAnimation_76
+    21300154: theVeldt_grassAnimation_77
+    21300156: theVeldt_grassAnimation_78
+    21300158: theVeldt_grassAnimation_79
+    21300160: theVeldt_grassAnimation_80
+    21300162: theVeldt_grassAnimation_81
+    21300164: theVeldt_grassAnimation_82
+    21300166: theVeldt_grassAnimation_83
+    21300168: theVeldt_grassAnimation_84
+    21300170: theVeldt_grassAnimation_85
+    21300172: theVeldt_grassAnimation_86
+    21300174: theVeldt_grassAnimation_87
+    21300176: theVeldt_grassAnimation_88
+    21300178: theVeldt_grassAnimation_89
+    21300180: theVeldt_grassAnimation_90
+    21300182: theVeldt_grassAnimation_91
+    21300184: theVeldt_grassAnimation_92
+    21300186: theVeldt_grassAnimation_93
+    21300188: theVeldt_grassAnimation_94
+    21300190: theVeldt_grassAnimation_95
+    21300192: theVeldt_grassAnimation_96
+    21300194: theVeldt_grassAnimation_97
+    21300196: theVeldt_grassAnimation_98
+    21300198: theVeldt_grassAnimation_99
+    21300200: theVeldt_grassAnimation_100
+    21300202: theVeldt_grassAnimation_101
+    21300204: theVeldt_grassAnimation_102
+    21300206: theVeldt_grassAnimation_103
+    21300208: theVeldt_grassAnimation_104
+    21300210: theVeldt_grassAnimation_105
+    21300212: theVeldt_grassAnimation_106
+    21300214: theVeldt_grassAnimation_107
+    21300216: theVeldt_grassAnimation_108
+    21300218: theVeldt_grassAnimation_109
+    21300220: theVeldt_grassAnimation_110
+    21300222: theVeldt_grassAnimation_111
+    21300224: theVeldt_grassAnimation_112
+    21300226: theVeldt_grassAnimation_113
+    21300228: theVeldt_grassAnimation_114
+    21300230: theVeldt_grassAnimation_115
+    21300232: theVeldt_grassAnimation_116
+    21300234: theVeldt_grassAnimation_117
+    21300236: theVeldt_grassAnimation_118
+    21300238: theVeldt_grassAnimation_119
+    21300240: theVeldt_grassAnimation_120
+    21300242: theVeldt_grassAnimation_121
+    21300244: theVeldt_grassAnimation_122
+    21300246: theVeldt_grassAnimation_123
+    21300248: theVeldt_grassAnimation_124
+    21300250: theVeldt_grassAnimation_125
+    21300252: theVeldt_grassAnimation_126
+    21300254: theVeldt_grassAnimation_127
+    21300256: theVeldt_grassAnimation_128
+    21300258: theVeldt_grassAnimation_129
+    21300260: theVeldt_grassAnimation_130
+    21300262: theVeldt_grassAnimation_131
+    21300264: theVeldt_grassAnimation_132
+    21300266: theVeldt_grassAnimation_133
+    21300268: theVeldt_grassAnimation_134
+    21300270: theVeldt_grassAnimation_135
+    21300272: theVeldt_grassAnimation_136
+    21300274: theVeldt_grassAnimation_137
+    21300276: theVeldt_grassAnimation_138
+    21300278: theVeldt_grassAnimation_139
+    21300280: theVeldt_grassAnimation_140
+    21300282: theVeldt_grassAnimation_141
+    21300284: theVeldt_grassAnimation_142
+    21300286: theVeldt_grassAnimation_143
+    21300288: theVeldt_grassAnimation_144
+    21300290: theVeldt_grassAnimation_145
+    21300292: theVeldt_grassAnimation_146
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1951
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1951
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1951
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1951
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1951
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1951
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1951
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1854
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1854
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1854
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1854
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1854
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1854
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1854
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1757
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_15
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1757
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_16
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1757
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_17
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1757
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_18
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1757
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_19
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1757
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_20
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1757
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1660
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1660
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_23
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1660
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_24
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1660
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_25
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1660
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_26
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1660
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_27
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1660
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1563
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_29
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1563
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_30
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1563
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_31
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1563
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_32
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1563
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_33
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1563
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_34
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1563
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1466
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_36
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1466
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_37
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1466
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_38
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1466
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_39
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1466
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_40
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1466
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_41
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1466
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1369
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_43
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1369
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_44
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1369
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_45
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1369
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_46
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1369
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_47
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1369
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_48
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1369
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1272
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_50
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1272
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_51
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1272
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_52
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1272
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_53
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1272
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_54
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1272
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_55
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1272
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1175
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_57
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1175
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_58
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1175
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_59
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1175
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_60
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1175
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_61
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1175
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_62
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1175
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1078
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_64
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1078
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_65
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1078
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_66
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1078
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_67
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1078
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_68
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1078
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_69
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1078
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 981
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_71
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 981
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_72
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 981
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_73
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 981
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_74
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 981
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_75
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 981
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_76
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 981
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 884
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_78
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 884
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_79
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 884
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_80
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 884
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_81
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 884
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_82
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 884
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_83
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 884
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 787
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_85
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 787
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_86
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 787
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_87
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 787
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_88
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 787
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_89
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 787
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_90
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 787
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_92
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 690
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_93
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 690
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_94
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 690
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_95
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 690
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_96
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 690
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_97
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 690
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 593
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_99
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 593
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_100
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 593
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_101
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 593
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_102
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 593
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_103
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 593
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_104
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 593
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_106
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 496
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_107
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 496
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_108
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 496
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_109
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 496
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_110
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 496
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_111
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 496
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_113
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 399
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_114
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 399
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_115
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 399
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_116
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 399
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_117
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 399
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_118
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 399
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 302
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_120
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 302
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_121
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 302
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_122
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 302
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_123
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 302
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_124
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 302
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_125
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 302
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_127
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 205
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_128
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 205
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_129
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 205
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_130
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 205
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_131
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 205
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_132
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 205
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_134
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 108
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_135
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 108
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_136
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 108
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_137
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 108
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_138
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 108
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_139
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 108
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_141
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 11
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_142
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 11
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_143
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 11
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_144
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 11
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_145
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 11
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: theVeldt_grassAnimation_146
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 11
+        width: 252
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
