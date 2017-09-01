@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: 864589f9341d1cb489fbc6a22571d299
+timeCreated: 1504230794
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: eutemiaLetters_a
+    21300002: eutemiaLetters_c
+    21300004: eutemiaLetters_u
+    21300006: eutemiaLetters_o
+    21300008: eutemiaLetters_s
+    21300010: eutemiaLetters_v
+    21300012: eutemiaLetters_w
+    21300014: eutemiaLetters_x
+    21300016: eutemiaLetters_r
+    21300018: eutemiaLetters_m
+    21300020: eutemiaLetters_n
+    21300022: eutemiaLetters_h
+    21300024: eutemiaLetters_g
+    21300026: eutemiaLetters_i
+    21300028: eutemiaLetters_b
+    21300030: eutemiaLetters_k
+    21300032: eutemiaLetters_l
+    21300034: eutemiaLetters_p
+    21300036: eutemiaLetters_d
+    21300038: eutemiaLetters_f
+    21300040: eutemiaLetters_j
+    21300042: eutemiaLetters_q
+    21300044: eutemiaLetters_y
+    21300046: eutemiaLetters_t
+    21300048: eutemiaLetters_z
+    21300050: eutemiaLetters_e
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eutemiaLetters_a
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1832
+        width: 161
+        height: 216
+      alignment: 9
+      pivot: {x: 0.34367347, y: 0.72575945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_c
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1931
+        width: 97
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_u
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1913
+        width: 127
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_o
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1926
+        width: 116
+        height: 122
+      alignment: 9
+      pivot: {x: 0.4186362, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_s
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1924
+        width: 101
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_v
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1904
+        width: 149
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_w
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1904
+        width: 171
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_x
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1847
+        width: 144
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5327712, y: 0.686631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_r
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1930
+        width: 133
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_m
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1897
+        width: 355
+        height: 151
+      alignment: 9
+      pivot: {x: 0.32718763, y: 0.5416696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_n
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1827
+        width: 190
+        height: 221
+      alignment: 9
+      pivot: {x: 0.40065083, y: 0.70641595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_h
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1476
+        width: 325
+        height: 373
+      alignment: 9
+      pivot: {x: 0.20282799, y: 0.16517651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_g
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1422
+        width: 328
+        height: 427
+      alignment: 9
+      pivot: {x: 0.7030718, y: 0.8626755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_i
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1845
+        width: 98
+        height: 203
+      alignment: 9
+      pivot: {x: 0.4036915, y: 0.29852685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_b
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1477
+        width: 291
+        height: 354
+      alignment: 9
+      pivot: {x: 0.18527372, y: 0.18013337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_k
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1470
+        width: 275
+        height: 364
+      alignment: 9
+      pivot: {x: 0.22751465, y: 0.29413882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_l
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1489
+        width: 242
+        height: 335
+      alignment: 9
+      pivot: {x: 0.16283397, y: 0.20672807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_p
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 904
+        width: 353
+        height: 558
+      alignment: 9
+      pivot: {x: 0.7830348, y: 0.72083133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_d
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1076
+        width: 364
+        height: 353
+      alignment: 9
+      pivot: {x: 0.17977151, y: 0.17451006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_f
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 922
+        width: 396
+        height: 501
+      alignment: 9
+      pivot: {x: 0.41589957, y: 0.1742745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_j
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1329
+        width: 296
+        height: 483
+      alignment: 9
+      pivot: {x: 0.76440513, y: 0.73098886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_q
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 1392
+        width: 154
+        height: 355
+      alignment: 9
+      pivot: {x: 0.51081276, y: 0.83303773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_y
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 601
+        width: 332
+        height: 431
+      alignment: 9
+      pivot: {x: 0.6888178, y: 0.84179914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_t
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 801
+        width: 242
+        height: 567
+      alignment: 9
+      pivot: {x: 0.43119067, y: 0.68208414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_z
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 873
+        width: 357
+        height: 432
+      alignment: 9
+      pivot: {x: 0.7472129, y: 0.84691423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_e
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1930
+        width: 134
+        height: 118
+      alignment: 9
+      pivot: {x: 0.41782573, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

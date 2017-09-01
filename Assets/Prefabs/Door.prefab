@@ -37,7 +37,7 @@ GameObject:
   - component: {fileID: 4429383610404626}
   - component: {fileID: 212059404197475110}
   m_Layer: 0
-  m_Name: theVeldt_glows_purple
+  m_Name: backGlow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -53,7 +53,7 @@ GameObject:
   - component: {fileID: 4567897940180686}
   - component: {fileID: 212839554921298900}
   m_Layer: 0
-  m_Name: theVeldt_glows_purple (1)
+  m_Name: frontGlow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -113,8 +113,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1798431595713970}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -15.32, y: -3.31, z: 0}
-  m_LocalScale: {x: -1.05, y: 1.05, z: 1}
+  m_LocalPosition: {x: 30, y: -3.4, z: 0}
+  m_LocalScale: {x: 1.05, y: 1.05, z: 1}
   m_Children:
   - {fileID: 4185324934284728}
   - {fileID: 4977142353515458}
@@ -143,13 +143,13 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1199366879304704}
-  m_LocalRotation: {x: 0, y: 0.7071068, z: -0, w: -0.7071068}
+  m_LocalRotation: {x: 0, y: 0.27563733, z: 0, w: 0.96126175}
   m_LocalPosition: {x: -1.14, y: -1.101, z: -0.205}
   m_LocalScale: {x: 2, y: 1.990681, z: 1}
   m_Children: []
   m_Father: {fileID: 4068016254908126}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 270, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 32, z: 0}
 --- !u!4 &4429383610404626
 Transform:
   m_ObjectHideFlags: 1
@@ -222,7 +222,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 90
   m_Sprite: {fileID: 21300000, guid: 547ac03a8ed37f349b1a231c4a38f4cd, type: 3}
-  m_Color: {r: 0, g: 1, b: 0.7539997, a: 1}
+  m_Color: {r: 0, g: 1, b: 0.7539997, a: 0.23529412}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0

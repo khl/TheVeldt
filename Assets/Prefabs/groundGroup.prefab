@@ -23,7 +23,7 @@ GameObject:
   - component: {fileID: 114039912496459374}
   - component: {fileID: 61852890944704360}
   m_Layer: 10
-  m_Name: ground_sprites
+  m_Name: ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
