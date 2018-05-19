@@ -5,7 +5,8 @@ namespace UnityStandardAssets._2D
 {
     public class Camera2DFollow : MonoBehaviour
     {
-        public Transform target;
+
+        public Transform target = null;
         public float damping = 1;
         public float lookAheadFactor = 3;
         public float lookAheadReturnSpeed = 0.5f;
@@ -18,12 +19,14 @@ namespace UnityStandardAssets._2D
 
 
         private void Awake() {
-            Vector3 startingPosition = new Vector3(target.position.x, target.position.y, transform.position.z);
-            transform.position = startingPosition;
+			target = GameObject.Find ("Player").transform;
         }
+
         // Use this for initialization
         private void Start()
         {
+			Vector3 startingPosition = new Vector3(target.position.x, target.position.y, transform.position.z);
+			transform.position = startingPosition;
             m_LastTargetPosition = target.position;
             m_OffsetZ = (transform.position - target.position).z;
             transform.parent = null;
@@ -32,7 +35,8 @@ namespace UnityStandardAssets._2D
 
         // Update is called once per frame
         private void Update()
-        {
+		{
+
             // only update lookahead pos if accelerating or changed direction
             float xMoveDelta = (target.position - m_LastTargetPosition).x;
 

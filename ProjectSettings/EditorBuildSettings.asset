@@ -6,11 +6,83 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/main.unity
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 0
     path: 
-    guid: 35a9113d76891f448b5dda9f198edf30
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 8479a96831ab14deca962d94ee8e3658
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 4053c4eb30e914fce9d9e63846de5a35
   - enabled: 1
     path: Assets/Scenes/main.unity
     guid: 3335cc0e93bbc9047b99fc559d018f7e
+  - enabled: 1
+    path: Assets/Scenes/naturalLamp.unity
+    guid: faaf27ab857524ca7959367db3692a2d
+  - enabled: 1
+    path: Assets/Scenes/green.unity
+    guid: 08517fb1730a143e6884ec33784859ed
+  - enabled: 1
+    path: Assets/Scenes/teal.unity
+    guid: 76f572210d40344df855e454f8758799
+  - enabled: 1
+    path: Assets/Scenes/purple.unity
+    guid: c647cb6fcbe754b02a928d12a769e89d
+  - enabled: 1
+    path: Assets/Scenes/blue.unity
+    guid: c2d44bf824afb416594cabf7fe9b8337
+  - enabled: 1
+    path: Assets/Scenes/maze_level1.unity
+    guid: b27e999ce39a3450f87647af928d5288
+  - enabled: 1
+    path: Assets/Scenes/maze_level2.unity
+    guid: 4508cb46b00cf43c7ae95e8d1e2acb6e
+  - enabled: 1
+    path: Assets/Scenes/maze_level3.unity
+    guid: 03b50b238805f4125920ae5402c1babf
+  - enabled: 1
+    path: Assets/Scenes/maze_level4.unity
+    guid: 5f87889d87021461f879b51be039aa78
+  - enabled: 1
+    path: Assets/Scenes/maze_level5.unity
+    guid: d86dc724a8fe1473089905db828602aa
+  - enabled: 1
+    path: Assets/Scenes/blood.unity
+    guid: fc5bb3dc08ad748188888164e7182886
+  - enabled: 1
+    path: Assets/Scenes/b.unity
+    guid: b28f9d4354e6a4fa7afeca3c18768524
+  - enabled: 1
+    path: Assets/Scenes/d.unity
+    guid: ff30fc5cfcef3458a9a1335b01eefc6c
+  - enabled: 1
+    path: Assets/Scenes/l.unity
+    guid: 6efa2ac9e52534cc192d10a63d52da67
+  - enabled: 1
+    path: Assets/Scenes/o.unity
+    guid: 3790b351db2834243b6dcd559a0977c3
+  - enabled: 1
+    path: Assets/Scenes/o2.unity
+    guid: 1e9dec675d6c34ff195a924d1f7cabad
+  - enabled: 1
+    path: Assets/Scenes/parchment.unity
+    guid: b99502694cf2f4484be26cce78e59ca7
+  - enabled: 1
+    path: Assets/Scenes/fate.unity
+    guid: 8f0a56f11d580432493b9a4125f37b15
+  - enabled: 1
+    path: Assets/Scenes/fate_a.unity
+    guid: 38e4220d9146a40609b0bbbbd514d113
+  - enabled: 1
+    path: Assets/Scenes/fate_e.unity
+    guid: c9424fba6947a44378829e546eb85403
+  - enabled: 1
+    path: Assets/Scenes/fate_f.unity
+    guid: 8a1095baa2f9b4dc5b52248c2ff0db01
+  - enabled: 1
+    path: Assets/Scenes/fate_t.unity
+    guid: a2a849d50b985414393c4d79ffd067c1

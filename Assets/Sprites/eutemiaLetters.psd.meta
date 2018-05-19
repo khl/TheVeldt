@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 864589f9341d1cb489fbc6a22571d299
-timeCreated: 1504230794
+timeCreated: 1511389436
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -30,6 +30,17 @@ TextureImporter:
     21300046: eutemiaLetters_t
     21300048: eutemiaLetters_z
     21300050: eutemiaLetters_e
+    21300052: eutemiaLetters_0
+    21300054: eutemiaLetters_1
+    21300056: eutemiaLetters_2
+    21300058: eutemiaLetters_3
+    21300060: eutemiaLetters_4
+    21300062: eutemiaLetters_5
+    21300064: eutemiaLetters_6
+    21300066: eutemiaLetters_7
+    21300068: eutemiaLetters_8
+    21300070: eutemiaLetters_9
+  externalObjects: {}
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -83,6 +94,7 @@ TextureImporter:
   platformSettings:
   - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -91,6 +103,7 @@ TextureImporter:
     overridden: 0
   - buildTarget: Standalone
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -99,6 +112,7 @@ TextureImporter:
     overridden: 0
   - buildTarget: iPhone
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -107,6 +121,7 @@ TextureImporter:
     overridden: 0
   - buildTarget: Android
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -152,8 +167,8 @@ TextureImporter:
         y: 1913
         width: 127
         height: 135
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45290348}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -167,7 +182,7 @@ TextureImporter:
         width: 116
         height: 122
       alignment: 9
-      pivot: {x: 0.4186362, y: 0.5}
+      pivot: {x: 0.41863644, y: 0.473943}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -194,8 +209,8 @@ TextureImporter:
         y: 1904
         width: 149
         height: 144
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43377006}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -206,7 +221,7 @@ TextureImporter:
         serializedVersion: 2
         x: 779
         y: 1904
-        width: 171
+        width: 170
         height: 122
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -218,12 +233,12 @@ TextureImporter:
       name: eutemiaLetters_x
       rect:
         serializedVersion: 2
-        x: 947
-        y: 1847
-        width: 144
+        x: 950
+        y: 1848
+        width: 141
         height: 177
       alignment: 9
-      pivot: {x: 0.5327712, y: 0.686631}
+      pivot: {x: 0.5327711, y: 0.6453002}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -236,8 +251,8 @@ TextureImporter:
         y: 1930
         width: 133
         height: 118
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.523901, y: 0.5269403}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -251,7 +266,7 @@ TextureImporter:
         width: 355
         height: 151
       alignment: 9
-      pivot: {x: 0.32718763, y: 0.5416696}
+      pivot: {x: 0.32718763, y: 0.49956346}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -279,7 +294,7 @@ TextureImporter:
         width: 325
         height: 373
       alignment: 9
-      pivot: {x: 0.20282799, y: 0.16517651}
+      pivot: {x: 0.2028281, y: 0.15475047}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -293,7 +308,7 @@ TextureImporter:
         width: 328
         height: 427
       alignment: 9
-      pivot: {x: 0.7030718, y: 0.8626755}
+      pivot: {x: 0.7030714, y: 0.8529756}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -335,7 +350,7 @@ TextureImporter:
         width: 275
         height: 364
       alignment: 9
-      pivot: {x: 0.22751465, y: 0.29413882}
+      pivot: {x: 0.22751465, y: 0.25047186}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -349,7 +364,7 @@ TextureImporter:
         width: 242
         height: 335
       alignment: 9
-      pivot: {x: 0.16283397, y: 0.20672807}
+      pivot: {x: 0.16283372, y: 0.1687704}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -363,7 +378,7 @@ TextureImporter:
         width: 353
         height: 558
       alignment: 9
-      pivot: {x: 0.7830348, y: 0.72083133}
+      pivot: {x: 0.78303516, y: 0.7275227}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -391,7 +406,7 @@ TextureImporter:
         width: 396
         height: 501
       alignment: 9
-      pivot: {x: 0.41589957, y: 0.1742745}
+      pivot: {x: 0.51833, y: 0.457645}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -405,7 +420,7 @@ TextureImporter:
         width: 296
         height: 483
       alignment: 9
-      pivot: {x: 0.76440513, y: 0.73098886}
+      pivot: {x: 0.76440513, y: 0.709738}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -433,7 +448,7 @@ TextureImporter:
         width: 332
         height: 431
       alignment: 9
-      pivot: {x: 0.6888178, y: 0.84179914}
+      pivot: {x: 0.688818, y: 0.85234463}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -443,11 +458,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1236
-        y: 801
+        y: 796
         width: 242
         height: 567
       alignment: 9
-      pivot: {x: 0.43119067, y: 0.68208414}
+      pivot: {x: 0.30754304, y: 0.4904826}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -461,7 +476,7 @@ TextureImporter:
         width: 357
         height: 432
       alignment: 9
-      pivot: {x: 0.7472129, y: 0.84691423}
+      pivot: {x: 0.7225673, y: 0.85184336}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -476,6 +491,146 @@ TextureImporter:
         height: 118
       alignment: 9
       pivot: {x: 0.41782573, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 42
+        width: 118
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 42
+        width: 118
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 42
+        width: 107
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_3
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 3
+        width: 148
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5919911, y: 0.60562253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_4
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 0
+        width: 163
+        height: 198
+      alignment: 9
+      pivot: {x: 0.4643375, y: 0.54893124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_5
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 42
+        width: 106
+        height: 158
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_6
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 41
+        width: 126
+        height: 193
+      alignment: 9
+      pivot: {x: 0.42781478, y: 0.43295926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_7
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 0
+        width: 140
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5, y: 0.593747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_8
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 41
+        width: 113
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eutemiaLetters_9
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 39
+        width: 133
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

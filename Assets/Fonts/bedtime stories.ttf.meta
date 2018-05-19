@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8722931eaf8444c92b6f7938690c0573
+timeCreated: 1509953801
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: bedtime stories
+  fontNames:
+  - bedtime stories
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

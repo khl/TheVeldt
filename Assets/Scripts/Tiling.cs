@@ -5,7 +5,9 @@ using System.Collections;
 
 public class Tiling : MonoBehaviour {
 
-	public int offsetX = 1;			// the offset so that we don't get any weird errors
+	public bool firstInstance = true;
+
+	public int offsetX = 0;			// the offset so that we don't get any weird errors
 
 	// these are used for checking if we need to instantiate stuff
 	public bool hasARightBuddy = false;
@@ -14,16 +16,18 @@ public class Tiling : MonoBehaviour {
 	public bool reverseScale = false;	// used if the object is not tilable
 
 	private float spriteWidth = 0f;		// the width of our element
-	private Camera cam;
+	public Camera cam;
 	private Transform myTransform;
 
 	void Awake () {
-		cam = Camera.main;
 		myTransform = transform;
 	}
 
 	// Use this for initialization
 	void Start () {
+		if (firstInstance) {
+			myTransform.position = new Vector2 (GameObject.Find ("Player").transform.position.x, myTransform.position.y);
+		}
 		SpriteRenderer sRenderer = GetComponent<SpriteRenderer>();
 		spriteWidth = sRenderer.sprite.bounds.size.x;
 	}
@@ -72,5 +76,7 @@ public class Tiling : MonoBehaviour {
 		else {
 			newBuddy.GetComponent<Tiling>().hasARightBuddy = true;
 		}
+
+		newBuddy.GetComponent<Tiling>().firstInstance = false;
 	}
 }

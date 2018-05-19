@@ -8,16 +8,16 @@ public class Parallaxing : MonoBehaviour {
     private float[] parallaxScales;
     public float smoothing = 1f;
 
-    private Transform cam;
+    public Transform cam;
     private Vector3 previousCamPos;
 
     void Awake() {
-        cam = Camera.main.transform;
-    }
+    
+	}
 
 	// Use this for initialization
 	void Start () {
-        previousCamPos = cam.position;
+		previousCamPos = GameObject.Find ("Player").transform.position;
 
         parallaxScales = new float[backgrounds.Length];
 
@@ -25,15 +25,13 @@ public class Parallaxing : MonoBehaviour {
             parallaxScales[i] = backgrounds[i].position.z;
         }
 	}
-	
+
 	// Update is called once per frame
 	void Update () {
 		for (int i = 0; i <backgrounds.Length; i++) {
             float parallax = (cam.position.x - previousCamPos.x) * parallaxScales[i];
 
-            float backgroundTargetPosX = backgrounds[i].position.x + parallax;
-
-            Vector3 backgroundTargetPos = new Vector3 (backgroundTargetPosX, backgrounds[i].position.y, backgrounds[i].position.z);
+			Vector3 backgroundTargetPos = new Vector3 (backgrounds[i].position.x + parallax, backgrounds[i].position.y, backgrounds[i].position.z);
 
             backgrounds[i].position = Vector3.Lerp(backgrounds[i].position, backgroundTargetPos, smoothing);
         }

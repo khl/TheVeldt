@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4098566746164512}
   - component: {fileID: 212196749573748590}
   - component: {fileID: 114039912496459374}
-  - component: {fileID: 61852890944704360}
+  - component: {fileID: 68940972941107272}
   m_Layer: 10
   m_Name: ground
   m_TagString: Untagged
@@ -37,7 +37,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4563337698393758}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: groundGroup
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -71,8 +71,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!61 &61852890944704360
-BoxCollider2D:
+--- !u!68 &68940972941107272
+EdgeCollider2D:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
@@ -83,19 +83,11 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
-    newSize: {x: 1, y: 1}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Offset: {x: 0, y: 0.5}
   m_EdgeRadius: 0
+  m_Points:
+  - {x: -0.5, y: 0}
+  - {x: 0.5, y: 0}
 --- !u!114 &114039912496459374
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -107,10 +99,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa4fcf6a7d1d6b34eacdca095eba1cbd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  firstInstance: 1
   offsetX: 1
   hasARightBuddy: 0
   hasALeftBuddy: 0
   reverseScale: 1
+  cam: {fileID: 0}
 --- !u!212 &212196749573748590
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -120,6 +114,7 @@ SpriteRenderer:
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
@@ -135,6 +130,7 @@ SpriteRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
   m_SelectedEditorRenderState: 0
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
@@ -142,7 +138,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1000
+  m_SortingOrder: 90
   m_Sprite: {fileID: 21300000, guid: d45ce99051a093348bf7d232c2e61ce2, type: 3}
   m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0

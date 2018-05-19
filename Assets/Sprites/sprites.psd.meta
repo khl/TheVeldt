@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: f5faf9c1c19b7dd4a9044a3f86feeb95
-timeCreated: 1504220796
+timeCreated: 1518730906
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -21,6 +21,19 @@ TextureImporter:
     21300028: gatePost
     21300030: gate
     21300032: gateBack
+    21300034: lock_sprite
+    21300036: inkSplatter_sprite
+    21300038: inkSpots_Sprite
+    21300040: inkParticle_sprite
+    21300042: inkEffect_sprite
+    21300044: inkEffect_0
+    21300046: inkEffect_1
+    21300048: inkEffect_2
+    21300050: inkEffect_3
+    21300052: inkEffect_4
+    21300054: inkEffect_5
+    21300056: letterSplatter_sprite
+  externalObjects: {}
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -74,6 +87,7 @@ TextureImporter:
   platformSettings:
   - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -82,6 +96,7 @@ TextureImporter:
     overridden: 0
   - buildTarget: Standalone
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -90,6 +105,7 @@ TextureImporter:
     overridden: 0
   - buildTarget: Android
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -188,9 +204,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1516
-        width: 225
-        height: 374
+        y: 1509
+        width: 218
+        height: 438
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,7 +274,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 729
-        y: 1237
+        y: 1288
         width: 435
         height: 745
       alignment: 0
@@ -305,6 +321,132 @@ TextureImporter:
         height: 322
       alignment: 9
       pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lock_sprite
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1948
+        width: 69
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inkSpots_Sprite
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 836
+        width: 159
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inkEffect_0
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inkEffect_1
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 0
+        width: 65
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inkEffect_2
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 9
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inkEffect_3
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 9
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inkEffect_4
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 8
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inkEffect_5
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 0
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: letterSplatter_sprite
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 0
+        width: 503
+        height: 558
+      alignment: 9
+      pivot: {x: 0.60266286, y: 0.5462719}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
